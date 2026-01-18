@@ -1,5 +1,14 @@
 [
   {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1768564071.439641,
+    "completed_at": 1768564072.921636,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
     "exercise_name": "stage-fright",
     "started_at": 1768563733.602288,
     "completed_at": 1768563735.1015,
@@ -18,12 +27,10 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "grocery-shopping",
-    "started_at": 1768564071.439641,
-    "completed_at": 1768564072.921636,
-    "comments": [
-      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
-    ],
+    "exercise_name": "log-and-order",
+    "started_at": 1768716833.030719,
+    "completed_at": 1768716834.48169,
+    "comments": [],
     "status": "Completed"
   }
 ]
