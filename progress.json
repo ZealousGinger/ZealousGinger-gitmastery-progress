@@ -32,5 +32,14 @@
     "completed_at": 1768716834.48169,
     "comments": [],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1768716898.570703,
+    "completed_at": 1768716899.94296,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
   }
 ]
